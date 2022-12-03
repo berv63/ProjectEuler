@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e155551d_002D74d1_002D4bc3_002D8cee_002D69211deacf71/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="C:\Berv\ProjectEuler\Problem17_NumberLetterCounts_Test" Presentation="&amp;lt;Problem17_NumberLetterCounts_Test&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\Berv\ProjectEuler\Problem19_CountingSundays_Test" Presentation="&amp;lt;Problem19_CountingSundays_Test&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\Berv\ProjectEuler\Problem24_LexicographicPermutations_Test" Presentation="&amp;lt;Problem24_LexicographicPermutations_Test&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\Berv\ProjectEuler\Problem29_DistinctPowers_Test" Presentation="&amp;lt;Problem29_DistinctPowers_Test&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\Berv\ProjectEuler\Problem54_PokerHands_Test" Presentation="&amp;lt;Problem54_PokerHands_Test&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\Berv\ProjectEuler\Problem78_CoinPartitions_Test" Presentation="&amp;lt;Problem78_CoinPartitions_Test&amp;gt;" /&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::ProjectEuler.Tests.Problem17_NumberLetterCounts.NumberLetterCountsTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::ProjectEuler.Tests.Problem17_NumberLetterCounts.NumberLetterExtensionsTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::Problem19_CountingSundays_Test.CountingSundaysTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::Problem24_LexicographicPermutations_Test.LexicographicPermutationsTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::Problem29_DistinctPowers_Test.DistinctPowersTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::Problem54_PokerHands_Test.HandModelTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::Problem54_PokerHands_Test.PokerHandsTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::Problem78_CoinPartitions_Test.JobTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::Problem78_CoinPartitions_Test.CoinPartitionsTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
