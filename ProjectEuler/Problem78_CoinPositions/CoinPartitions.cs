@@ -2,6 +2,7 @@
 
 namespace ProjectEuler.Problem78_CoinPositions
 {
+    [NotFinished]
     public static class CoinPartitions
     {
         public static int Main()
