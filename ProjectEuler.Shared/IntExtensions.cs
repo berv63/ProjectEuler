@@ -43,6 +43,16 @@
             return value.ToString().Distinct().Count() == value.ToString().Length;
         }
 
+        public static bool IsPalindrome(this int value)
+        {
+            return value.ToString().IsPalindrome();
+        }
+
+        public static string ToBinary(this int number, int leftPadding)
+        {
+            return Convert.ToString(number, 2).PadLeft(leftPadding, '0');
+        }
+
         public static int RoundToNearest(this int value, int valueToRoundTo)
         {
             return value / valueToRoundTo * valueToRoundTo;
