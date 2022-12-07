@@ -3,7 +3,7 @@ using ProjectEuler.Problem27_QuadraticPrimes;
 using ProjectEuler.Problem32_PandigitalProducts;
 using Assert = NUnit.Framework.Assert;
 
-namespace ProjectEuler.Tests.Problem37_PandigitalProducts
+namespace ProjectEuler.Tests.Problem32_PandigitalProducts
 {
     [TestFixture]
     public class PandigitalProductsTest

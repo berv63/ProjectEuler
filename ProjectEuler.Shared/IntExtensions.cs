@@ -11,6 +11,19 @@
         {
             return string.Join("", value.ToString().Reverse()).IndexOf(digit);
         }
+
+        public static bool IsDigitOneSmallerThanDigitTwo(this int number)
+        {
+            var firstDigit = int.Parse(number.ToString()[0].ToString());
+            var secondDigit = int.Parse(number.ToString()[1].ToString());
+
+            return firstDigit < secondDigit;
+        }
+
+        public static int ConcatInts(this int value, int concat)
+        {
+            return int.Parse(value.ToString().Concat(concat.ToString()).ToString());
+        }
         
         public static bool IsPrime(this int value)
         {
