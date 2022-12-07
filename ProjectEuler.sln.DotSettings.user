@@ -23,6 +23,7 @@
       &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::ProjectEuler.Tests.Problem37_PandigitalProducts.PandigitalProductsTest.TestMethod1&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::ProjectEuler.Tests.Problem33_DigitCancellingFractions.DigitCancellingFractionsTest.TestMethod1&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::ProjectEuler.Tests.Problem34_DigitFactorial.DigitFactorialTest.TestMethod1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::B77ED88B-6ED8-4A19-A14C-934FCA05FE2C::net6.0::ProjectEuler.Tests.Problem35_CircularPrimes.CircularPrimesTest&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
