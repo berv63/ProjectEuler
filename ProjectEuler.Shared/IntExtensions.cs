@@ -19,11 +19,6 @@
 
             return firstDigit < secondDigit;
         }
-
-        public static int ConcatInts(this int value, int concat)
-        {
-            return int.Parse(value.ToString().Concat(concat.ToString()).ToString());
-        }
         
         public static bool IsPrime(this int value)
         {
@@ -51,6 +46,11 @@
         public static int RoundToNearest(this int value, int valueToRoundTo)
         {
             return value / valueToRoundTo * valueToRoundTo;
+        }
+
+        public static List<int> GetDigitsAsList(this int value)
+        {
+            return value.ToString().Select(x => int.Parse(x.ToString())).ToList();
         }
     }
 }
